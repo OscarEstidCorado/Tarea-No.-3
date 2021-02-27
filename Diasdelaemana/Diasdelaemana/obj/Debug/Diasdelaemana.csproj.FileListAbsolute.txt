@@ -1,0 +1,2 @@
+C:\Users\OscarEstid\source\repos\Diasdelaemana\Diasdelaemana\obj\Debug\Diasdelaemana.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\Diasdelaemana\Diasdelaemana\obj\Debug\Diasdelaemana.csproj.CoreCompileInputs.cache

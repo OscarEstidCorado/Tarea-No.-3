@@ -1,0 +1,7 @@
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\bin\Debug\parimpar.exe.config
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\bin\Debug\parimpar.exe
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\bin\Debug\parimpar.pdb
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\obj\Debug\parimpar.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\obj\Debug\parimpar.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\obj\Debug\parimpar.exe
+C:\Users\OscarEstid\source\repos\parimpar\parimpar\obj\Debug\parimpar.pdb

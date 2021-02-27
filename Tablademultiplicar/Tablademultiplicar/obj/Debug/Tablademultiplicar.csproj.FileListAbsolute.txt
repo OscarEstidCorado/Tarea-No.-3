@@ -1,0 +1,7 @@
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\bin\Debug\Tablademultiplicar.exe.config
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\bin\Debug\Tablademultiplicar.exe
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\bin\Debug\Tablademultiplicar.pdb
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\obj\Debug\Tablademultiplicar.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\obj\Debug\Tablademultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\obj\Debug\Tablademultiplicar.exe
+C:\Users\OscarEstid\source\repos\Tablademultiplicar\Tablademultiplicar\obj\Debug\Tablademultiplicar.pdb

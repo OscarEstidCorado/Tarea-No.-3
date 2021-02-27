@@ -1,0 +1,7 @@
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\bin\Debug\valordeserie.exe.config
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\bin\Debug\valordeserie.exe
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\bin\Debug\valordeserie.pdb
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\obj\Debug\valordeserie.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\obj\Debug\valordeserie.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\obj\Debug\valordeserie.exe
+C:\Users\OscarEstid\source\repos\valordeserie\valordeserie\obj\Debug\valordeserie.pdb

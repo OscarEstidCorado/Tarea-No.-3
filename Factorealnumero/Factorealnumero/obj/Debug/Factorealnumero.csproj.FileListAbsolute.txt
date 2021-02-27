@@ -1,0 +1,7 @@
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\obj\Debug\Factorealnumero.csprojAssemblyReference.cache
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\obj\Debug\Factorealnumero.csproj.CoreCompileInputs.cache
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\bin\Debug\Factorealnumero.exe.config
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\bin\Debug\Factorealnumero.exe
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\bin\Debug\Factorealnumero.pdb
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\obj\Debug\Factorealnumero.exe
+C:\Users\OscarEstid\source\repos\Factorealnumero\Factorealnumero\obj\Debug\Factorealnumero.pdb
